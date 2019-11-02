@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+Welcome Message: KONNICHIWA!
+New Issue Message: Heya! Thanks for raising an issue, please be explicit in describing what it is about ok!
